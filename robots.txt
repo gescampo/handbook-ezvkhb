@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gescampo.github.io/handbook-ezvkhb/sitemap.xml
